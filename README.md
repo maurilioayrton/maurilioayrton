@@ -1,15 +1,30 @@
 <html>
 <body>
+  <div align="center">
+  <img style="border-radius:100px;" height="150" src="https://media.licdn.com/dms/image/C4E03AQGkuhFUJ7uHGQ/profile-displayphoto-shrink_200_200/0/1623618767344?e=1698883200&v=beta&t=AoIuSSCSrrKAExaz1x2rDWQ8Qx21ewxharAkyEWaDoc"  />
+</div>
+  <br>
 <h1> 
   🍀🥇🍎 WELCOME TO MY REPOSITORY :) 
 </h1>
+<p>
+  - 📚 Graduado em Analise Desenvolvimento de Sistema <br> 
+  - 🌌 Pós Graduado em Engenharia DEVOPS <br>
+  - 🕹️ Jogo Favorito CSGO <br>
+</p>
 <h4>
 
   _Fala Boss, me chamo Maurilio Ayrton, tenho 29 anos sou PARAIBANO com muito orgulho, e sou Fascinado por tecnologia... Meu objetivo pessoal é ajudar as pessoas e mostrar que é possível aprender qualquer coisa inclusive tecnologia!!!_
 
 </h4>
 
-## 🚀Skills
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/maurilioayrton/count.svg" />
+</p>
+
+## 🛠 Language and tools
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -39,8 +54,8 @@
 ## GitHub Stats
 <div align="center">
 <a href="https://github.com/maurilioayrton">
-<img height="160rem" src="https://github-readme-stats.vercel.app/api?username=maurilioayrton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurilioayrton&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurilioayrton&layout=compact&langs_count=7&theme=nord"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maurilioayrton&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </div>
   </body>
 </html>
