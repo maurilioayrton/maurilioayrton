@@ -1,7 +1,7 @@
 <html>
 <body>
   <div align="center">
-  <img style="border-radius: 10px;" height="150" src="https://media.licdn.com/dms/image/C4E03AQGkuhFUJ7uHGQ/profile-displayphoto-shrink_200_200/0/1623618767344?e=1698883200&v=beta&t=AoIuSSCSrrKAExaz1x2rDWQ8Qx21ewxharAkyEWaDoc"  />
+  <img style="border-radius: 10px;" height="150" src="https://media.licdn.com/dms/image/D4D16AQGmoGh7aB7v0A/profile-displaybackgroundimage-shrink_350_1400/0/1679184094374?e=1698883200&v=beta&t=3eZn865l7Gqtf9wxjfspvXBboJIDm-HykCEVX5f-BXw"  />
 </div>
   <br>
 <h1> 
