@@ -1,12 +1,14 @@
 <html>
 <body>
   <div align="center">
-  <img style="border-radius:100px;" height="150" src="https://media.licdn.com/dms/image/C4E03AQGkuhFUJ7uHGQ/profile-displayphoto-shrink_200_200/0/1623618767344?e=1698883200&v=beta&t=AoIuSSCSrrKAExaz1x2rDWQ8Qx21ewxharAkyEWaDoc"  />
+  <img style="border-radius: 10px;" height="150" src="https://media.licdn.com/dms/image/C4E03AQGkuhFUJ7uHGQ/profile-displayphoto-shrink_200_200/0/1623618767344?e=1698883200&v=beta&t=AoIuSSCSrrKAExaz1x2rDWQ8Qx21ewxharAkyEWaDoc"  />
 </div>
   <br>
 <h1> 
   🍀🥇🍎 WELCOME TO MY REPOSITORY :) 
 </h1>
+
+### About
 <p>
   - 📚 Graduado em Analise Desenvolvimento de Sistema <br> 
   - 🌌 Pós Graduado em Engenharia DEVOPS <br>
@@ -20,7 +22,7 @@
 
 <br>
 <p align="center"> 
-  Visitor count<br>
+  Contador de Visitantes<br>
   <img src="https://profile-counter.glitch.me/maurilioayrton/count.svg" />
 </p>
 
@@ -44,12 +46,14 @@
 </div>
 
 ## ⚓Connect with me!
+<div>
 <a href="https://www.linkedin.com/in/maurilio-alves-861282163/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
 <a href="https://www.instagram.com/maurilioayrton/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>
 <a href="https://discord.com/channels/@maurilioayrton" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><a/>
 <a href="mailto:maurilioayrton@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"><a/>
 <a href="https://gitlab.com/maurilioayrton" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"><a/>
-
+<a href="https://www.dio.me/users/maurilioayrton" target="_blank"><img height="30em" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg"><a/>
+</div>
 
 ## GitHub Stats
 <div align="center">
