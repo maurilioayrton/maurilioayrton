@@ -1,16 +1,28 @@
-### Hi there 👋
+<html>
+<body>
+<h1> 
+  🍀🥇🍎 WELCOME TO MY REPOSITORY :) 
+</h1>
+<h4>
 
-<!--
-**maurilioayrton/maurilioayrton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  _Fala Boss, me chamo Maurilio Ayrton, tenho 29 anos sou PARAIBANO com muito orgulho, e sou Fascinado por tecnologia... Meu objetivo pessoal é ajudar as pessoas e mostrar que é possível aprender qualquer coisa inclusive tecnologia!!!_
 
-Here are some ideas to get you started:
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀Skills
+
+## ⚓Connect with me!
+
+<a href="www.google.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" a>
+<a href="www.google.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" a>
+
+## GitHub Stats
+<div align="center">
+<a href="https://github.com/maurilioayrton">
+<img height="160rem" src="https://github-readme-stats.vercel.app/api?username=maurilioayrton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurilioayrton&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  </body>
+</html>
+
+
