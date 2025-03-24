@@ -16,7 +16,24 @@
 </p>
 <h4>
 
-  _Fala Boss, me chamo Maurilio Ayrton, tenho 29 anos sou PARAIBANO com muito orgulho, e sou Fascinado por tecnologia... Meu objetivo pessoal é ajudar as pessoas e mostrar que é possível aprender qualquer coisa inclusive tecnologia!!!_
+ Aqui está uma versão mais profissional para o seu perfil no GitHub:
+
+---
+
+**Sobre Mim**  
+
+Olá! Meu nome é **Maurilio Ayrton**, tenho 29 anos e sou natural da **Paraíba**.  
+
+Sou um entusiasta da **tecnologia**, apaixonado por aprendizado contínuo e inovação. Acredito que o conhecimento tem o poder de transformar vidas, e meu objetivo é **democratizar o acesso à tecnologia**, mostrando que qualquer pessoa pode aprender e se desenvolver nessa área.  
+
+**Missão:**  
+- Ajudar pessoas a descobrirem seu potencial  
+- Compartilhar conhecimento de forma acessível  
+- Incentivar o crescimento na área de tecnologia  
+
+Vamos juntos nessa jornada! 🚀  
+
+---
 
 </h4>
 
